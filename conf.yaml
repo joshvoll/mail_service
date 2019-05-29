@@ -1,0 +1,10 @@
+Port: 5050
+ApiKey: ""
+Kafka:
+  Server: "localhost"
+  Group: "mailer_group"
+SmtpServer:
+  Host: "smtp.gmail.com"
+  Port: 465
+  SenderEmail: ""
+  SenderPassword: ""
